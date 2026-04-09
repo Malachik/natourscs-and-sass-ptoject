@@ -1,0 +1,27 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "license": "ISC",
+  "author": "Patrick",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build:sass": "sass sass/main.scss css/style.css",
+    "watch:sass": "sass --watch sass/main.scss:css/style.css"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "detect-libc": "^2.1.2",
+    "immutable": "^5.1.5",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "node-addon-api": "^7.1.1",
+    "picomatch": "^4.0.4",
+    "readdirp": "^4.1.2",
+    "source-map-js": "^1.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.99.0"
+  }
+}
