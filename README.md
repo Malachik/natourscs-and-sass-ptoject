@@ -81,3 +81,4 @@ project/
 ├── screenshots/
 ├── index.html
 └── README.md
+![iamge alt](https://github.com/Malachik/natourscs-and-sass-ptoject/blob/dc9b81553365dab4370db84da7f0cf71b742ef6a/rsz_screencapture-127-0-0-1-5500-index-html-2026-04-09-20_08_35.png)
