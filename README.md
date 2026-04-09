@@ -13,6 +13,7 @@ A fully responsive, animated landing page for a fictional tour company, built us
 ## 🚀 Live Demo
 
 👉 **[https://natours-patrick-css-project.netlify.app/]()**  
+https://natours-patrick-css-project.netlify.app/
 *(Replace with your Netlify/Vercel link)*
 
 ---
